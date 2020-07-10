@@ -15,7 +15,7 @@ I need to follow those tutorial and examples with the Trace-21ka data.
 
 # References
 
-[1] Fordham, D.A., Saltré, F., Haythorne, S., Wigley, T.M.L., Otto‐Bliesner, B.L., Chan, K.C. and Brook, B.W. (2017), PaleoView: a tool for generating continuous climate projections spanning the last 21 000 years at regional and global scales. Ecography, 40: 1348-1358. doi:10.1111/ecog.03031
+[1] Fordham, D.A., Saltré, F., Haythorne, S., Wigley, T.M.L., Otto‐Bliesner, B.L., Chan, K.C. and Brook, B.W. (2017), PaleoView: a tool for generating continuous climate projections spanning the last 21 000 years at regional and global scales. Ecography, 40: 1348-1358. https://doi.org/10.1111/ecog.03031
 
 [2] Iturbide, M., Bedia, J., Herrera, S., Baño-Medina, J., Fernández, J., Frías, M. D., Manzanas, R., San-Martín, D., Cimadevilla, E., Cofiño, A. S., & Gutiérrez, J. M. (2019). The R-based climate4R open framework for reproducible climate data access and post-processing. Environmental Modelling & Software, 111, 42–54. https://doi.org/10.1016/j.envsoft.2018.09.009
 
