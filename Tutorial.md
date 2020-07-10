@@ -7,9 +7,9 @@ After checking the relevant variables I came to the conclusion that I should use
 
 Downloads are from this link: https://www.earthsystemgrid.org/project/trace.html. The selected dataset is "Main TraCE dataset". 
 
-From supplementary information (http://www.ecography.org/appendix/ecog-03031) in Fordham et al. (2017)^1^: "We derived a correction factor for each variable, month and grid cell in PaleoViewusing the differences between the observed and modelled climate for an 11-year period (1979 through 1989) centered on 1985. Observed climate data came from the ERA interim (Dee, D. P. et al. 2011)and MERRA reanalyses (Rienecker, M. M. et al. 2011). This procedure is often referred to as “bias correction”." Specific formulas can be found also in the supplementary information if needed (I may not needed by using the climate4R bundle (framework).
+From supplementary information (http://www.ecography.org/appendix/ecog-03031) in Fordham et al. (2017) ^1^: "We derived a correction factor for each variable, month and grid cell in PaleoViewusing the differences between the observed and modelled climate for an 11-year period (1979 through 1989) centered on 1985. Observed climate data came from the ERA interim (Dee, D. P. et al. 2011)and MERRA reanalyses (Rienecker, M. M. et al. 2011). This procedure is often referred to as “bias correction”." Specific formulas can be found also in the supplementary information if needed (I may not needed by using the climate4R bundle (framework).
 
-A presentation of the climate4R framework can be found in Iturbide et al. (2019)^2^. They provide also some examples and links to the wiki pages for the different constituent R-packages.
+A presentation of the climate4R framework can be found in Iturbide et al. (2019) ^2^. They provide also some examples and links to the wiki pages for the different constituent R-packages.
 
 I need to follow those tutorial and examples with the Trace-21ka data.
 
